@@ -21,12 +21,12 @@
       </child>
       <child>
          <id>transformation_filename</id>
-         <value>/home/dsteiner/git/pdi-unit-test-example/pdiute-code/pdi/jobs-and-transformations/tr_sample.ktr</value>
+         <value>tr_sample.ktr</value>
          <type>String</type>
       </child>
       <child>
          <id>basePath</id>
-         <value></value>
+	 <value>${UNIT_TESTS_BASE_PATH}</value>
          <type>String</type>
       </child>
       <child>
